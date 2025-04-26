@@ -3,6 +3,8 @@
 A Mineflayer-based bot for automatically distributing PvP and grief kits on 2b2t.org.tr Minecraft server.
 ?kit | ?kit build you can customize everything
 
+![](https://komarev.com/ghpvc/?username=mintyYukiHater)
+
 ## Features
 
 - **Dual Queue System**: Handles both normal PvP kits and grief kits with separate queues
