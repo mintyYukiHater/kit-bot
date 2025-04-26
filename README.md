@@ -1,7 +1,5 @@
 # Minecraft Kit Distribution Bot
 
-![Minecraft Logo](https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a4/Grid_Shulker_Box_%28Purple%29.png/revision/latest?cb=20200225005925)
-
 A Mineflayer-based bot for automatically distributing PvP and grief kits on 2b2t.org.tr Minecraft server.
 
 ## Features
