@@ -1,6 +1,7 @@
 # Minecraft Kit Distribution Bot
 
 A Mineflayer-based bot for automatically distributing PvP and grief kits on 2b2t.org.tr Minecraft server.
+?kit | ?kit build you can customize everything
 
 ## Features
 
